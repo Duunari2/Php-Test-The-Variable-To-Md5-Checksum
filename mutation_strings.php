@@ -1,0 +1,15 @@
+<?php
+system("tee "MutaatioJonot.dat" /
+2#110#Credit="Mutation Strings"
+2#05#Object Name="Canon C4"
+2#55#Date Created="2011-02-03 13:37
+2#80#By-line="LinedyLocal1337"
+2#110#Credit="md5 value php"
+2#115#Source="Added multiparty plaintext for taking step to hash image file to go one step to lenght to enable mime type to have default lenght as wifi spot apn lenght limit chars."
+2#116#Copyright Notice="THE COPYRIGHT is unded GNUGPLv3 Lisence"
+2#118#Contact="sysop@source.dy.fi"
+2#120#Caption="FileMultiPartyMutationStringsEnabledToUseRnd.."
+
+/";
+
+?>
