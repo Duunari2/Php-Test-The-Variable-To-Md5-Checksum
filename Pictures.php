@@ -1,8 +1,17 @@
+//Disassembly not allowed.. Locking the mechanism is to move the algorithm to md5 checksum to allow the visible to be TRUE OR XOR FALSE if true then show the hello world message if false give another link to out of my server files.
+
+//Configure to have the grep on start of momentum
+
+//Rem0ve the man exiftool data
+
+//32 bytes long is the data limit.
+
+
 <?php
 
 
 
-system("man exiftool | tee TeeKannutKaksi.dat");
+system('grep -r "md5" | tee TeeKannutKaksi.dat');
 
 $tag_copyright = $_GET['Copyright'];
 
